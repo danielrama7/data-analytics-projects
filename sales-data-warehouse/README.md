@@ -6,7 +6,7 @@ This project is an end-to-end data analytics workflow: from data cleaning, EDA, 
 To analyze sales performance by product line, customer, and region using Python & Looker Studio.
 
 ## 📁 Dataset
-- Source: [Sales Daataset on Kagglep](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data) 
+- Source: [Sales Dataset on Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data/data) 
 - Raw CSV: `dataset/sales_dataset.csv`
 - Cleaned CSV: `dataset/cleaned_sales_dataset.csv`
 
