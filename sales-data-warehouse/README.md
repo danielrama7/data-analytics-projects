@@ -1,4 +1,4 @@
-# Sales Data Warehouse Project
+# Sales Data Project
 
 This project is an end-to-end data analytics workflow: from data cleaning, EDA, to dashboard creation.
 
